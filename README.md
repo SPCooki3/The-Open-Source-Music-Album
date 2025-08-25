@@ -5,3 +5,4 @@ Rules:
 1. Use FL Studio (latest version since you can't open newer projects in old versions) so you can open .flp files
 2. Samples you use should be packed into your fork, VSTs not so much as that would be illegal.
 3. Export your song using the highest quality settings on either FLAC or WAV, just in case your project file breaks for some reason or the person doesn't have your VSTs.
+4. Make the project file the same name OSMA.flp
